@@ -1,2 +1,2 @@
 # MyTools
-Este repositório contém um conjunto de ferramentas criadas por mim.
+Este repositório contém um conjunto de ferramentas.
